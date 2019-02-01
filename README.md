@@ -1,10 +1,10 @@
 # Image Response
 
 ## Introduction
-Responsive Images is the concept of choosing the right image for each situation, whether that be the size of the image, the crop of an image, or the image itself.
+Responsive Images is more than just making image grow and shrink. It is using the right image for any situation.
 
 ## Object
-Use the responsive images techniques to choose images for art direction and the correct size for the situation.
+For this lab, you will use responsive image techniques and the files provided, make the right image appear on the web page.
 
 ## Requirements 
 Follow the requirement below to update the web page to incorporate the techniques of responsive images.
